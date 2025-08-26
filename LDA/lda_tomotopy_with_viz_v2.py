@@ -92,8 +92,7 @@ def prompt_choice(name: str, options: List[str]) -> str:
 
 def load_tsv(path: Path, id_col: Optional[str], text_col: Optional[str]) -> Tuple[List[str], List[str]]:
     df = pd.read_csv(
-        path, sep="t", dtype=str, keep_default_na=False,
-        engine="python", quoting=csv.QUOTE_MINIMAL, escapechar="", on_bad_lines="warn"
+        path, sep="t", dtype=str, keep_default_na=False
     )
     cols = list(df.columns)
     if text_col is None or text_col not in cols:
