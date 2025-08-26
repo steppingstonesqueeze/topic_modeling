@@ -1,0 +1,13 @@
+{
+  "preprocess_stats": {
+    "docs_before": 180,
+    "docs_after": 180,
+    "docs_dropped_lt_3_tokens": 0
+  },
+  "model_selection": {
+    "method": "hdp",
+    "iters": 500,
+    "estimated_topics": 36,
+    "ll_per_word": -4.695900564714331
+  }
+}

@@ -1,0 +1,181 @@
+id	topic	doc	weight
+7	0	The customer is frustrated with a high water bill, suspecting a leak or technical issue, and is dissatisfied with the lack of resolution.	1.0000001192092896
+13	0	The customer is frustrated with a high bill amount and lack of clarity on charges, seeking assistance but not receiving satisfactory support.	1.000000238418579
+25	0	The customer is dissatisfied with a high bill and seeks confirmation and resolution, but the issue remains unresolved.	1.0
+34	0	The customer is frustrated with an unusually high bill and suspects a meter issue, seeking resolution.	1.0003174543380737
+45	0	The customer is dissatisfied with the high bill amount and issues with email notifications for the bill. They are also concerned about increased consumption and discrepancies in previous bills.	0.863241970539093
+46	0	The customer is concerned about high billing amounts and seeks clarification on the calculation of charges.	1.000000238418579
+57	0	The customer is experiencing issues with high water bills and is frustrated with the lack of resolution and unclear communication regarding the meter and billing process.	1.000000238418579
+59	0	The customer is concerned about an unexpected increase in their electricity bill and seeks clarification on the discrepancy.	1.0000001192092896
+62	0	The customer is experiencing unexpected high water bills and is concerned about the lack of notification regarding increased consumption.	1.0
+70	0	The customer is experiencing issues with an increased electricity bill and is seeking clarification on the charges. Despite previous communication, the problem remains unresolved, causing frustration.	1.0000474452972412
+74	0	The customer is frustrated with a high electricity bill and unresolved issues regarding service charges and account management. Despite multiple attempts to contact support, the problem remains unresolved.	1.0000003576278687
+76	0	The customer is concerned about a significant increase in their service bill and suspects incorrect meter readings. They request a consumption verification to resolve the issue.	1.000170350074768
+84	0	The customer is frustrated with unexpected high electricity bills and unresolved service issues despite contacting customer support.	1.0
+92	0	The customer is frustrated with unexpectedly high bills and lack of clear communication regarding charges and notifications.	1.0
+100	0	The customer is concerned about unexpected increases in electricity bills and discrepancies in billing amounts.	1.0
+101	0	The customer is concerned about a high bill amount and seeks clarification.	0.9999999403953552
+104	0	The customer is experiencing issues with meter readings and consumption data, leading to billing discrepancies. They are frustrated with the lack of resolution and clarity from the service provider.	1.0
+108	0	The customer is concerned about a discrepancy in their bill amount and unresolved issues with electricity charges, despite previous attempts to resolve them.	1.0
+112	0	The customer received an incorrect bill due to a meter reading error, resulting in a higher charge than usual. Despite a technician confirming the error, the issue remains unresolved, causing frustration.	0.5636258721351624
+113	0	The customer is frustrated with billing issues and lack of communication regarding electricity charges and account status.	1.0002522468566895
+118	0	The customer is frustrated with billing issues, unexpected charges, and lack of resolution despite previous attempts to address the problem.	1.000065803527832
+119	0	The customer is frustrated with a high electricity bill and lack of response from the service provider.	1.0
+129	0	The customer is concerned about an unexpected increase in their electricity bill and suspects a meter issue. They request a consumption verification and express dissatisfaction with the billing process.	1.0
+130	0	The customer is concerned about an unusually high water bill and suspects a meter issue or leakage. They have not received the bill and are frustrated with the unexpected charges.	1.0000483989715576
+131	0	The customer is experiencing issues with increasing bills and is confused about the charges. They are seeking verification of meter readings and resolution of billing discrepancies.	1.000000238418579
+161	0	The customer is concerned about high electricity bills and seeks clarification on consumption and billing discrepancies.	1.0
+162	0	The customer is unhappy with the electricity and water billing, suspecting overcharges and seeking verification. The agent attempts to assist but the customer remains dissatisfied with the resolution process.	1.0001296997070312
+163	0	The customer is frustrated with high electricity bills and believes there is an error in consumption calculation. Despite previous contact, the issue remains unresolved, and the customer is seeking clarification and resolution.	1.0
+178	0	The customer is experiencing incorrect charges on their DEWA bill and is seeking verification of consumption data.	1.0002989768981934
+15	1	The customer is experiencing issues with electricity bill payment and service disconnection, seeking resolution and clarification on charges.	1.0002645254135132
+17	1	The customer received a high electricity bill and is confused about the charges, seeking clarification and resolution.	1.0
+18	1	The customer is frustrated with unexpected billing charges and unclear billing cycle information.	1.0002992153167725
+19	1	The customer is facing issues with broadband billing and account activation, expressing dissatisfaction with the process and charges.	1.000000238418579
+20	1	The customer is frustrated with recurring billing issues and discrepancies in charges, seeking clarification and resolution.	1.0003143548965454
+27	1	The customer received a high bill and is confused about the charges, seeking clarification using their account number.	1.0
+35	1	The customer is unhappy with the billing and consumption details, seeking clarification on charges and account status.	1.0
+36	1	The customer is unhappy with the billing process, questioning charges and consumption after paying a bill online. They express confusion over additional charges and seek clarification on the final bill amount.	1.0000004768371582
+39	1	The customer is unhappy with a higher than expected bill amount and confusion over the billing details, seeking clarification.	1.0
+40	1	The customer is concerned about higher water and electricity consumption charges while being out of the country and seeks clarification on the billing issue.	1.0002963542938232
+48	1	The customer is frustrated with the refund process and unclear policy regarding security deposits, expressing dissatisfaction with high bills and unresolved issues.	0.5248910784721375
+49	1	The customer is frustrated with discrepancies in the electricity bill and additional charges, seeking clarification and resolution.	1.0
+54	1	The customer is frustrated with billing issues and unclear information regarding the electricity bill amount.	1.0
+55	1	The customer is frustrated with billing issues and service charges, seeking resolution for discrepancies in electricity bills and service fees.	1.0
+56	1	The customer is frustrated with a high electricity bill and seeks clarification on the charges, expressing dissatisfaction with the unexpected increase.	1.0
+60	1	The customer is frustrated with billing issues and unclear charges, seeking clarification and resolution.	1.0
+61	1	The customer is frustrated with a high bill and payment issues, seeking resolution and reconnection.	1.0
+65	1	The customer is experiencing issues with billing and payment, specifically regarding an incorrect amount and electricity charges.	0.9999998211860657
+68	1	The customer is experiencing issues with electricity billing, including discrepancies in the amounts and unresolved payment status.	1.0
+79	1	The customer is experiencing issues with billing discrepancies and high charges, seeking clarification and resolution.	1.0003851652145386
+86	1	The customer is frustrated with billing discrepancies and unclear charges, seeking resolution for high amounts due.	1.0
+93	1	The customer is frustrated with incorrect consumption charges and unresolved billing issues, seeking clarification and resolution.	1.0
+98	1	The customer reports unexpectedly high bills while traveling, indicating dissatisfaction.	1.0002739429473877
+99	1	The customer is concerned about high bills and unclear charges, seeking clarification and resolution.	1.0
+103	1	The customer is frustrated with unexpected high billing amounts and unclear responsibility for payment, seeking resolution or discount.	1.0000001192092896
+109	1	The customer reports unexpectedly high bills while traveling, indicating dissatisfaction.	1.0
+115	1	The customer is concerned about a charge labeled 'DEWA' on their bill, which exceeds their actual water and electricity consumption.	1.0001897811889648
+116	1	The customer is concerned about a charge labeled 'DEWA' on their bill, which exceeds their actual water and electricity consumption.	1.0001897811889648
+120	1	The customer is concerned about a high bill amount and unexpected housing fees, seeking clarification on billing details.	0.9999999403953552
+126	1	The customer is concerned about the delay in bill generation and discrepancies in billing information.	1.0
+128	1	The customer received an unexpectedly high bill and faced issues with understanding the breakdown and payment process online.	1.0000001192092896
+136	1	The customer is concerned about a high bill and additional reconnection charges, suspecting errors compared to a neighbor's bill.	1.0
+144	1	The customer is experiencing issues with electricity billing and service charges, expressing dissatisfaction with the resolution process and unclear charges.	1.0
+154	1	The customer is frustrated with unexpected high billing amounts and unclear explanations regarding their electricity bill. They express dissatisfaction with the billing process and seek clarification on the charges.	1.0
+165	1	The customer is frustrated with the delay in electricity activation and high charges, seeking faster service.	1.0
+166	1	The customer is frustrated with billing issues and unclear information regarding electricity consumption and charges.	1.0003318786621094
+170	1	The customer is concerned about a high bill and additional reconnection charges, suspecting errors compared to a neighbor's bill.	1.0
+179	1	The customer is confused and frustrated about a high bill received.	1.0
+85	3	The customer is facing an issue with their electricity bill, which unexpectedly amounts to six thousand dirhams, and seeks assistance.	1.0
+96	4	The customer is concerned about a significant increase in their Dubai studio bill, which jumped from around 200 to over 700 AED. They are seeking clarification and resolution for the unexpected charges.	1.0
+172	5	The customer is confused about a high electricity bill for a property with minimal usage and suspects incorrect meter readings. They express dissatisfaction with the billing process and seek clarification.	1.000004768371582
+1	6	The customer is unhappy with a high bill for a short stay at Hessa Residence and questions the consumption level.	1.000000238418579
+158	8	The customer is concerned about high electricity bills despite living in a small studio and questions the accuracy of consumption readings.	1.0
+21	9	The customer is unhappy about an unexplained increase in their DEWA bill and seeks assistance.	1.0
+52	9	The customer is unhappy with the high municipality bill and seeks clarification on consumption verification options.	1.0
+71	9	The customer is concerned about a high bill on a newly purchased unit and seeks verification of consumption.	1.0
+97	9	The customer is concerned about a high bill despite paying earlier and seeks clarification on consumption and billing discrepancies.	1.0
+105	9	The customer is concerned about a high electricity bill from Dubai Municipality and seeks clarification on the charges. The account is under a previous owner's name, causing confusion in billing and payment responsibilities.	0.6181661486625671
+125	9	The customer, Adel Mahdood Saleh, is unhappy with a billing issue and seeks clarification on a high bill despite being out of the country. The agent suggests contacting Dubai Municipality for further assistance.	1.0
+80	10	The customer is confused about receiving a high bill and having two account numbers, one of which is closed. They compare their bill with neighbors and express dissatisfaction with the unclear billing process.	1.0
+83	11	The customer is concerned about a high bill for 15 days after moving into a new apartment and requests a breakdown and consumption verification.	0.9999998211860657
+121	12	The customer is concerned about a significant increase in their electricity bill, which is usually around 65 AED but has risen to 600 AED. They are seeking clarification and resolution for this discrepancy.	1.0
+29	13	The customer is experiencing unusually high bills for the past seven to eight months despite checking for leaks or issues. They are frustrated and seeking assistance to resolve the billing problem.	1.0
+88	14	The customer expresses dissatisfaction with the high cost of their DEWA bill.	1.0
+9	15	The customer is concerned about receiving a high electricity bill for a studio apartment despite limited AC usage.	1.0
+14	15	The customer is concerned about a high electricity bill of 400 AED within 10 days despite having paid the deposit and activation fee.	1.0
+95	15	The customer paid their bill but still sees it as unpaid, indicating a possible issue with consumption verification.	1.0
+107	15	The customer is experiencing issues with billing, specifically with unexpected charges and discrepancies in the amounts deducted. The conversation ends without a clear resolution, indicating dissatisfaction.	1.0
+111	15	The customer is unhappy with the high electric bill received.	1.0
+114	15	The customer is concerned about consistently high electricity bills and suspects a meter fault.	1.0
+124	15	The customer is frustrated with a charge of 500 AED related to electricity billing, which they believe is incorrect. They have paid their bill but are confused about the additional charge and feel the issue is unresolved.	1.0
+142	15	The customer is concerned about a bill received for a property that is not rented and questions the source of the charge.	1.0
+143	15	The customer is dissatisfied with billing discrepancies and seeks clarification on charges for May. They request cancellation of an inspection scheduled for May 8th due to a resolved issue.	1.0
+146	15	Emily is concerned about a high bill despite being away for half the month and seeks clarification on potential issues with consumption or billing errors.	1.0
+148	15	The customer is concerned about a significant discrepancy in their electricity bill and seeks verification of consumption. They did not receive any prior notification or email about high consumption, and the issue remains unresolved.	1.000004529953003
+26	16	The customer is confused about the billing amounts and suspects a payment issue, as the latest bill is higher than expected. They plan to check their bank account to verify payment status.	1.000000238418579
+11	17	The customer is confused about an electricity bill for an empty house and is shocked by the charges. They seek clarification on the bill and whether electricity is being used.	1.0
+117	18	The customer is concerned about receiving a bill for a warehouse that has not been active, questioning the charges and seeking clarification on the account status.	1.0
+87	19	The customer is concerned about a high bill and potential errors, seeking clarification and resolution.	1.0
+123	19	The customer is frustrated with a high bill and unresolved issues despite technician checks, seeking a solution and fearing disconnection.	1.0
+64	20	The customer is unhappy with high invoice amounts for the past two months and seeks clarification.	1.0
+81	20	The customer wants to submit a complaint regarding unexpected electricity or water consumption patterns.	1.0000001192092896
+0	21	The customer is dissatisfied with the high bill amount, considering their low usage of electricity and water.	1.0000001192092896
+3	21	The customer is unhappy with the unexpected increase in their electricity bill and seeks clarification on the charges.	1.0
+4	21	The customer is frustrated with the increasing electricity bill despite consistent usage and seeks an explanation or resolution.	1.0000001192092896
+5	21	The customer is concerned about a high bill amount despite no consumption and seeks clarification on the charges.	1.0
+6	21	The customer has an issue with their bill and seeks consumption verification for unexpected patterns in electricity or water usage.	1.0
+8	21	The customer is frustrated with high electricity bills despite minimal usage and seeks clarification on charges.	1.0
+12	21	The customer is concerned about a significant increase in their electricity bill despite consistent usage patterns and seeks clarification.	1.0
+22	21	The customer is concerned about a significant increase in their bill and seeks verification of consumption levels.	1.0
+28	21	The customer is concerned about a significantly higher bill despite being away, and seeks clarification on the charges.	1.0
+30	21	The customer is confused about additional charges on their bill and seeks clarification on monthly payments and water consumption fees.	1.0
+31	21	The customer is unhappy with a high electricity bill and seeks clarification on the charges.	1.0
+32	21	The customer is concerned about a high DEWA bill and seeks clarification on potential reasons for increased charges.	1.0
+37	21	The customer is concerned about a significant increase in their DEWA bill compared to the previous installment.	1.0
+41	21	The customer is concerned about unexpectedly high electricity consumption despite not being at home and seeks guidance on verifying this issue.	1.0
+42	21	The customer is concerned about unexpectedly high electricity or water bills and seeks verification of consumption levels.	1.0
+43	21	The customer is concerned about an unexpected increase in consumption charges despite no leaks in the apartment and seeks a solution.	1.0
+44	21	The customer is unhappy with a high DEWA bill and seeks clarification on the reasons behind it.	1.0000001192092896
+47	21	The customer is concerned about the high bill value and seeks verification of consumption levels.	1.0
+50	21	The customer is frustrated with high electricity bills despite no one being at home, and seeks verification of consumption.	1.0000001192092896
+53	21	The customer is concerned about the increasing monthly bill and seeks verification of consumption levels.	1.0
+58	21	The customer is frustrated with increased bills despite being alone at home.	1.0
+66	21	The customer is concerned about a high electricity bill despite being new to the residence and seeks clarification on the account details.	1.000000238418579
+67	21	The customer is concerned about a significant increase in their electricity bill despite similar consumption levels, and seeks clarification.	1.0
+72	21	The customer is concerned about a significant increase in their electricity bill for May, despite being cautious with usage.	1.0
+73	21	The customer is concerned about a sudden increase in their DEWA bill and seeks clarification on the reasons behind it.	1.0
+78	21	The customer is concerned about a high bill in May despite no occupancy and seeks verification.	1.0
+82	21	The customer is concerned about unexpected monthly charges on their electricity bill despite not residing in the apartment, and seeks clarification on the billing process.	1.0000001192092896
+89	21	The customer is unhappy with an unexpected increase in their bill and seeks verification of consumption.	1.0
+91	21	The customer is concerned about high bills despite no one being at home and seeks verification of consumption levels.	1.0
+94	21	The customer is concerned about unexpectedly high electricity and water bills despite not being in their apartment.	1.0
+106	21	The customer is concerned about a significant increase in their electricity bill and seeks clarification on the charges, including municipal fees.	1.0
+132	21	The customer is concerned about an unexpected increase in their DEWA water bill and seeks verification of consumption.	1.0
+134	21	The customer is concerned about a high bill and seeks verification of consumption levels.	1.0
+135	21	The customer is concerned about an unexpectedly high bill and seeks verification of consumption levels.	1.0
+137	21	The customer is concerned about a sudden increase in their bill and seeks verification of consumption.	1.0
+138	21	The customer is concerned about unexpectedly high electricity or water bills and seeks verification of consumption levels.	1.0
+139	21	The customer is concerned about unexpectedly high bills and seeks verification of consumption levels.	1.0
+140	21	The customer is concerned about unexpectedly high electricity consumption despite low usage.	1.0
+141	21	The customer is frustrated with a sudden increase in their monthly bill despite regular payments.	1.0000001192092896
+149	21	The customer is frustrated with unexpected high utility bills despite being away from home, and seeks clarification on charges.	1.0
+151	21	The customer is concerned about a higher bill and seeks verification of consumption levels.	1.0
+153	21	The customer is confused about a sudden increase in their bill amount and seeks clarification.	1.0
+156	21	The customer is concerned about an unexpected increase in their electricity or water bill and seeks verification of consumption.	1.0
+157	21	The customer is concerned about a significant increase in their electricity bill compared to previous months and seeks clarification on the account details and consumption verification.	1.0
+159	21	The customer is frustrated with increasing monthly bills despite minimal usage and seeks clarification on the charges.	1.0
+160	21	The customer is concerned about a high DEWA bill and seeks verification options.	1.0
+164	21	The customer is concerned about higher than usual bills and seeks clarification.	1.0
+167	21	The customer is concerned about a significant increase in their bill despite similar usage and seeks verification of consumption.	1.0
+169	21	The customer is concerned about a significant increase in their electricity bill and seeks clarification on the charges.	1.0
+173	21	The customer is concerned about a high DEWA bill in March compared to February and seeks verification of consumption.	1.0000001192092896
+176	21	The customer is concerned about unexpectedly high electricity or water bills and seeks verification of consumption levels.	1.0
+177	21	The customer is concerned about a high bill and seeks verification of consumption levels.	1.0
+127	22	The customer is concerned about their increasing DEWA bill, which is higher than their neighbors despite having only two adults in the household.	1.000000238418579
+24	24	The customer is confused and frustrated about an unusually high bill and seeks clarification on the charges.	1.0
+174	24	The customer is concerned about an unusually high bill for a two-bedroom house and seeks clarification on the charges.	1.0
+102	25	The customer is unhappy about being charged for more electricity and water than used and seeks resolution.	1.0
+110	25	The customer is concerned about being charged more than expected for water and electricity consumption after renovations, and seeks clarification on the billing discrepancy.	1.0
+10	27	The customer is concerned about a significant increase in their electricity bill from January to June and seeks an explanation for the surge.	1.0
+16	27	The customer is concerned about a significant increase in their June electricity bill.	1.0
+75	28	The customer is concerned about a significant increase in their electricity bill and requests verification of consumption. They provide their account number and mobile number for follow-up.	0.9999998211860657
+168	29	The customer is frustrated with receiving a high bill for April after paying the March bill, indicating a possible error in billing or consumption verification.	1.0000003576278687
+133	30	The customer is unhappy with the unexpected increase in their bill amount, which is usually between 300-400 AED but was 704 AED this month.	1.0
+2	32	The customer is unhappy with a high bill despite paying the previous invoice and seeks verification of consumption.	1.0
+150	32	The customer is unhappy with high electricity charges and seeks clarification on billing discrepancies.	1.0
+33	33	The customer is unhappy with unexpected electricity and water consumption patterns and seeks to raise a complaint.	1.0
+23	34	The customer is concerned about a high DEWA bill and wants to verify if there are multiple accounts or meters.	1.0
+38	34	The customer is unhappy with the unresolved bill complaint and requests direct contact with DEWA.	1.0
+63	34	The customer is frustrated with billing issues and feels wrongly charged for electricity during his absence. He believes the company should bear responsibility for the charges incurred due to service disconnection.	1.0
+77	34	The customer is concerned about receiving a high bill compared to previous months and other flats, seeking clarification on the charges.	1.0
+90	34	The customer is frustrated with the DEWA app showing an inactive account while the active account is not visible, and is concerned about high electricity charges.	1.0
+147	34	The customer is concerned about an unexpected increase in their bill despite being away and not using services. They are confused about the fixed charges and additional fees.	1.0
+175	34	The customer is frustrated with a billing issue, claiming an incorrect charge and disconnection despite payment. They have been trying to resolve the issue through multiple channels without success.	1.0
+122	35	The customer is concerned about a sudden increase in their electricity bill and suspects an issue with the meter reading. They request a meter inspection and are informed of the associated charges.	0.9999998211860657
+155	35	The customer is concerned about a high electricity bill and suspects a meter issue. They request a technician to check the meter and are informed about potential charges for the service.	1.0000258684158325
+51	36	The customer is unhappy with the billing discrepancies and seeks clarification on the monthly electricity bill amount and discounts applied.	1.0
+145	36	The customer is dissatisfied with high municipality charges compared to actual consumption.	1.0
+171	36	The customer is unhappy with the electricity consumption charges, claiming minimal usage and questioning the billing accuracy.	1.0
+152	37	The customer is unhappy with unexpectedly high bills over the past two months, despite consistent usage. They suspect an issue with their account and seek clarification.	1.0
+69	39	The customer is frustrated due to incorrect email address in the portal, missing bill notifications, and higher than expected electricity bill.	1.0
