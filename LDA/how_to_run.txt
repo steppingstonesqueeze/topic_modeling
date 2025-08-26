@@ -1,0 +1,35 @@
+## Full list of parameters that you can use ::
+
+    ap = argparse.ArgumentParser(description="Short-text LDA/HDP-LDA with tomotopy (auto-K, keyword labels).")
+    ap.add_argument("--input", required=True, help="Path to TSV / JSON / JSONL")
+    ap.add_argument("--format", choices=["tsv", "json", "jsonl"], help="If omitted, inferred from extension")
+    ap.add_argument("--id-col", help="TSV id column (optional)")
+    ap.add_argument("--text-col", help="TSV text column")
+    ap.add_argument("--json-id-field", help="JSON/JSONL id field (optional)")
+    ap.add_argument("--json-text-field", help="JSON/JSONL text field")
+    ap.add_argument("--n-topics", default="auto", help="'auto' or integer K")
+    ap.add_argument("--auto-method", choices=["hdp", "sweep"], default="hdp",
+                    help="Auto-K method: 'hdp' (nonparametric) or 'sweep' (choose K by log-likelihood)")
+    ap.add_argument("--k-min", type=int, default=5)
+    ap.add_argument("--k-max", type=int, default=30)
+    ap.add_argument("--k-step", type=int, default=5)
+    ap.add_argument("--iters", type=int, default=500, help="Training iterations per model")
+    ap.add_argument("--seed", type=int, default=42)
+    ap.add_argument("--topk", type=int, default=10, help="Top keywords per topic")
+    ap.add_argument("--out-dir", required=True, help="Output directory")
+
+
+# Minimal run with default configs that is good --
+
+
+python lda_tomotopy_fixed.pt --input inputs/summaries.tsv --text-col Summary --out-dir <OUTPUT_DIR_NAME>
+
+
+This will populate your OUTPUT_DIR_NAME with a bunch of files
+
+1. Cluster labels
+2. Given a doc, what cluster does it belong to?
+3. Topics most relevant to a cluster
+4. Topics JSON file
+5. Metrics file showing log-loss metrics 
+
