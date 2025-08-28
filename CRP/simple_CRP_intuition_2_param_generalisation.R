@@ -39,7 +39,7 @@ update_old_table_probability_two_param<- function(numbers, denom, theta = 1, alp
 
 N_cust <- 4000
 theta_value <- 1.0
-alpha_value <- 0.5
+alpha_value <- 0.7
 
 n <- 1
 numbers <- NULL
