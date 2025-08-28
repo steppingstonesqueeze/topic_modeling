@@ -1,10 +1,14 @@
 # An intuition into Chinese Restaurant Process #
 
 # Clearly can see the rich get richer phenomenon when the
-# probsbility of a customer sitting at a new table is theta/(n+theta-1) if they are the nth customer
+#
+# 2 parameter model now with theta (strength) and theta (discount)
 
-# theta : commonly called the "strength" of the distribution
-# large theta => large number of clusters ; think of this also as a "repulsive" force
+# Probability customer sits at empty table is : 
+# (theta + NUM_OCC_TABLES*theta) / (n + theta) (for us n <- n-1 just notationally)
+
+# probability customer chooses one of available :
+# if table with b customerts, (b - theta) / (n + theta) (for us, n-1 replaces n)
 
 library(ggplot2)
 library(dplyr)
@@ -24,25 +28,28 @@ update_number_counts <- function(numbers, last_chosen_table) {
   return (numbers)
 }
 
-new_table_probability <- function(denom, theta = 1) { # denom = tot_cust + 1 1 for new cust
-  return (theta / (denom + theta - 1)) # always 1 / (n+1)
+new_table_probability_two_param <- function(denom, theta = 1, alpha = 0.5, num_occ_tables = 1) { # denom = tot_cust + 1 1 for new cust
+  return ((theta + num_occ_tables * alpha) / (denom + theta - 1)) # always 1 / (n+1)
 }
 
-update_old_table_probability <- function(numbers, denom, theta = 1) {
-  return(numbers / (denom + theta - 1))
+update_old_table_probability_two_param<- function(numbers, denom, theta = 1, alpha = 0.5) {
+  return((numbers - alpha) / (denom + theta - 1))
 }
 # invariant : numbers + 1 = denom always (a PDF or rather a PMF)
 
 N_cust <- 4000
-theta_value <- 20.0
+theta_value <- 1.0
+alpha_value <- 0.5
 
 n <- 1
 numbers <- NULL
 numbers <- c(numbers, 1) # first customer
 
 for (n in 2:N_cust) {
-  ntp <- new_table_probability(n, theta = theta_value)
-  otp <- update_old_table_probability(numbers, n, theta = theta_value)
+  
+  num_occ_tables <- length(numbers)
+  ntp <- new_table_probability_two_param(n, theta = theta_value, alpha = alpha_value, num_occ_tables)
+  otp <- update_old_table_probability_two_param(numbers, n, theta = theta_value, alpha = alpha_value)
   
   pt <- c(otp, ntp) # new probability vector
   
@@ -131,7 +138,7 @@ ggplot(crp_binned, aes(x = reorder(bin_label, bin_order), y = table_count)) +
   geom_col(fill = "steelblue", alpha = 0.8) +
   geom_text(aes(label = table_count), vjust = -0.3) +
   labs(
-    title = "CRP Table Distribution (Power-of-2 Bins)",
+    title = "CRP Table Distribution for two param (Power-of-2 Bins)",
     x = "Number of Customers per Table",
     y = "Number of Tables"
   ) +
