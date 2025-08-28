@@ -1,0 +1,25 @@
+LDA Topic Modeling Analysis Summary
+==================================
+
+Author: Wodehouse 
+Analysis Date: 2025-08-28 12:46:28 
+Number of Documents: 12 
+Number of Terms: 23271 
+Number of Topics: 6 
+
+Topic Prevalence (Top 5):
+# A tibble: 5 × 5
+  topic mean_gamma median_gamma max_gamma n_dominant_docs
+  <int>      <dbl>        <dbl>     <dbl>           <int>
+1     6      0.250  0.000000795     1.000               3
+2     1      0.167  0.000000826     1.000               2
+3     4      0.167  0.000000848     1.000               2
+4     2      0.162  0.000000866     1.000               2
+5     3      0.141  0.000000935     1.000               2
+
+Most Representative Terms per Topic:
+Topic 1 : sam, time, sir, girl, mind 
+Topic 2 : ashe, peters, time, freddie, door 
+Topic 3 : jimmy, lord, pett, george, crocker 
+Topic 4 : jimmy, lord, bill, time, spike 
+Topic 5 : archie, reggie, brewster, time, girl 

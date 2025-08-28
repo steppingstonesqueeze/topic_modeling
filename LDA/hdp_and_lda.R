@@ -89,7 +89,7 @@ run_hdp <- function(dtm, burnin = 2000, n = 100, space = 50,
 
 # ---------------- Example usage ----------------
 # Change author_name to whoever you want (e.g., "Mark Twain", "H. G. Wells", "Rabindranath Tagore")
-author_name <- "Jane Austen"
+author_name <- "Wodehouse"
 
 data <- get_author_corpus(author_name, n_books = 10, language = "en")
 
